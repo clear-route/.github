@@ -1,4 +1,4 @@
-# Hi, Welcome to Clear Route github page.
+# Hi, Welcome to ClearRoute github page.
 
 ![img_1.png](profile/img_1.png)
 
