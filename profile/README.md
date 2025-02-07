@@ -1,6 +1,6 @@
 # Welcome to ClearRoute
 
-![ClearRoute Banner](profile/img_1.png)
+![img_1.png](img_1.png)
 
 ## Who We Are
 
