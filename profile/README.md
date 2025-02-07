@@ -18,7 +18,7 @@ We're building a new type of engineering role - the Quality Cloud Engineer (QCE)
 - 🔍 Quality engineering practices
 - 💻 Developer experience optimization
 
-QCEs are uniquely positioned to tackle the complex challenges of modern software delivery, bringing a holistic perspective to technical excellence and developer productivity.
+QCEs are uniquely positioned to tackle the complex challenges presented by modern software delivery, bringing a holistic and cross domain perspective to technical excellence and developer productivity.
 
 ## What We Do
 
@@ -36,15 +36,12 @@ Our teams help organizations:
 - Explore our open source projects
 - Join our team and pioneer the QCE role (we're always, always looking for talented people!)
 
-### For Organizations
+### For Organisations
 - Partner with us to transform your software delivery capabilities
 - Build high-performing engineering teams
 - Implement cloud-native best practices
 - Optimise your development workflows
 
-## Global Presence
-
-With teams across the UK, India, Australia, and the US, we bring a global perspective to local challenges.
 
 ## Connect With Us
 
