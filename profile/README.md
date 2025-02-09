@@ -14,13 +14,13 @@ Our expertise lies at the intersection of three critical domains:
 
 ## The Quality Cloud Engineer (QCE)
 
-We're building a new type of engineering role - the Quality Cloud Engineer (QCE). This innovative position bridges expertise across:
+We're building a new type of engineering role - the Quality Cloud Engineer (QCE). This position bridges expertise across:
 
 - 🛠️ Cloud platform engineering
 - 🔍 Quality engineering practices
 - 💻 Developer experience optimization
 
-QCEs are uniquely positioned to tackle the complex challenges presented by modern software delivery, bringing a holistic and cross domain perspective to technical excellence and developer productivity.
+QCEs are uniquely positioned to tackle the complex challenges presented by modern software delivery, bringing a holistic and cross domain perspective to developer productivity.
 
 ## What We Do
 
